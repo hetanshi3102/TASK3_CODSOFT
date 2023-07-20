@@ -51,5 +51,3 @@ The iris dataset was loaded using seaborn's `load_dataset` function, which conta
 
 1. The confusion matrix was calculated to evaluate the accuracy of the KMeans clustering.
 2. The confusion matrix was plotted using `matplotlib.pyplot.imshow` and `plt.text` to visualize the true and predicted labels.
-
-Please note that this code only covers the KMeans clustering approach for Iris Flower Classification and does not include other classification models or evaluation metrics. Further steps such as model evaluation, hyperparameter tuning, or other classification algorithms can be explored as well.
